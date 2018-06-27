@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+.sass-cache
+dist
+*.css
+yarn.lock
+*.log
+
